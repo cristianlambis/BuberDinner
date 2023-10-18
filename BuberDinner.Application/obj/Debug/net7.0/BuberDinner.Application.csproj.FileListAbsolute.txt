@@ -1,0 +1,15 @@
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.deps.json
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.dll
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.pdb
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.AssemblyInfo.cs
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.dll
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/refint/BuberDinner.Application.dll
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.pdb
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/ref/BuberDinner.Application.dll
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.dll
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/Users/cristianlambis/Documents/Proyectos de Desarrollo/netproject/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.CopyComplete
